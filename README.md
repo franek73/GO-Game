@@ -1,4 +1,4 @@
 # GO-Game
 Repository for computer science student project for Podstawy Programowania course. 
 
-Windows console GO game in C++.
+A console-based implementation of the Go board game.
